@@ -12,6 +12,15 @@ body {
     
 }
 
-.margin{
-    padding-bottom: 300px
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px
+}
+
+.parceiros {
+    background: cyan;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
 }
